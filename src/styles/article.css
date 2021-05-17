@@ -1,0 +1,48 @@
+
+.section{
+    height: 60vh;
+    width: 50vw;
+    /* border-style: solid ;
+    border-color: black; */
+    word-wrap: break-word;
+    justify-content: center;
+    margin-left: 5%;
+    margin-top: 10%;
+    
+}
+article{
+    background-color: rgba(36, 205, 247, 0.411);
+    justify-content: center;
+    color: white;
+}
+.backUp{
+    position: fixed;
+    z-index: 2;
+    /* bottom: 0; */
+    right:0;
+    bottom:0;
+}
+
+img {
+    height: 40vh;
+    width: 50vw;
+    padding-bottom: 5%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.title {
+    margin-left: 5%;
+}
+
+h1 {
+    padding-top: 5%;
+}
